@@ -1,0 +1,1 @@
+Within this project I developed projects where I analyzed immigration data from to Canada (from 1980 to 2013), and from this data I plotted graphs using the Seaborn, Matplotlib libraries and also used the Plotly library, being able to develop an interactive graph
